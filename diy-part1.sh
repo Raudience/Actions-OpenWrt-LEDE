@@ -16,3 +16,21 @@
 # Add a feed source
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+
+sudo apt-get install libpcre2
+sudo apt-get install libxml2
+sudo apt-get install pcre2
+sudo apt-get install ucode-mod-log
+sudo apt-get install libxml2/host
+sudo apt-get install gperf/host
+sudo apt-get install libnl-cli
+sudo apt-get install libpcre2-32
+sudo apt-get install gperf/host
+sudo apt-get install pcre2/host
+sudo apt-get install libunistring
+sudo apt-get install iptables-zz-legacy
+sudo apt-get install libmpfr
+sudo apt-get install ltq-dsl-app
+sudo apt-get install ip6tables-zz-legacy
+sudo apt-get install unetd
+sudo apt-get install unet-cli
