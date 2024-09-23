@@ -20,3 +20,4 @@
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
 
 git clone https://github.com/Zxilly/UA2F.git package/UA2F
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
